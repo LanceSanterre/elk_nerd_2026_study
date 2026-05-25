@@ -147,5 +147,5 @@ If you’re a hunter interested in participating or improving the data collectio
 --------------------------------------------------
 
 #### Authors: 
-Elk Nerd       -- Project Lead     
-Lance Santerre -- Lead Data Scientist
+Evan Hunter aka Elk Nerd -- Project Lead     
+Lance Santerre           -- Lead Data Scientist
