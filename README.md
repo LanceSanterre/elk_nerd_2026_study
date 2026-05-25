@@ -1,4 +1,4 @@
-## Elk Hunting Study: Calling, Shot Opportunity, and Recovery
+## Elk Hunting Study 2026: Calling, Shot Opportunity, and Recovery
 
 This project is an attempt to better understand what actually leads to success in elk hunting.
 
@@ -40,7 +40,7 @@ Basic information about experience level, hunting style, and equipment.
 Each time a hunter stops to call, glass, or listen, they record:
 - Location (via OnX)
 - Time and elevation
-- How did they call (bugle, cow call, etc.)
+- Calling method used (bugle, cow call, etc.)
 - Whether elk responded
 - Whether it led to an encounter or a shot opportunity
 
@@ -56,7 +56,7 @@ The goal is to keep data collection realistic so it doesn’t interfere with the
 --------------------------------------------------
 
 ### Project Structure
-
+```
 elk_hunter_study/
 
 data/
@@ -81,7 +81,7 @@ outputs/
   tables/
   maps/
   final_report/
-
+```
 --------------------------------------------------
 
 ### Approach
@@ -89,13 +89,13 @@ outputs/
 The analysis is broken into three parts:
 
 1. Calling Response Model
-Look at what factors increase the probability of getting an elk response.
+Looks at what factors increase the probability of getting an elk response.
 
 2. Shot Opportunity Model
-Look at what factors increase the chance that a response leads to a shot opportunity.
+Looks at what factors increase the chance that a response leads to a shot opportunity.
 
 3. Recovery Model
-Look at what factors influence whether a shot animal is recovered.
+Looks at what factors influence whether a shot animal is recovered.
 
 The idea is not just to build predictive models, but to understand which variables actually matter.
 
@@ -148,4 +148,4 @@ If you’re a hunter interested in participating or improving the data collectio
 
 #### Authors: 
 Evan Hunter aka Elk Nerd -- Project Lead     
-Lance Santerre           -- Lead Data Scientist
+Lance Santerre           -- Lead Data Analyst
